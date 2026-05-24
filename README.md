@@ -13,11 +13,17 @@ ________________________________________
 🎯 Objectives
 
 The primary objectives of this project are:
+
 •	To analyze student-related data using IBM SPSS Modeler 
+
 •	To identify important factors affecting student performance 
-•	To build a predictive model for estimating student marks 
+
+•	To build a predictive model for estimating student marks
+
 •	To perform statistical analysis on student academic records 
+
 •	To improve understanding of educational performance through data analytics 
+
 •	To generate insights that may help improve student outcomes 
 ________________________________________
 📊 Dataset
