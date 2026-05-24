@@ -157,10 +157,8 @@ student-marks-prediction-spss/
 
 👨‍💻 Contributers
 
-Ishan Sharma
-
 Devanginee Sen
 
-Pari Bagrecha
+
 
 
