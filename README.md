@@ -96,7 +96,7 @@ The model demonstrated how educational data can be used to support performance a
 This project demonstrated the practical implementation of predictive analytics using IBM SPSS Modeler for student marks prediction.
 By analyzing educational data, the system helps identify performance trends and estimate student marks more effectively. Such predictive systems can support educators in understanding student progress and enable proactive academic assistance.
 Overall, the project highlights the importance of data-driven educational analysis in modern learning environments.
-<img width="1376" height="458" alt="image" src="https://github.com/user-attachments/assets/cc3fa52c-fd2b-487a-b821-46df7f7dd9b0" />
+<img width="1587" height="497" alt="image" src="https://github.com/user-attachments/assets/9c2f2018-2181-4e00-ae91-ad1f57e4d7d4" />
 
 
 
